@@ -11,4 +11,5 @@ set(GRAPHICS_LEARING_DIR ${CMAKE_CURRENT_SOURCE_DIR})
 
 
 add_subdirectory(Utils)
+add_subdirectory(template)
 add_subdirectory(1.ObjectOutline)

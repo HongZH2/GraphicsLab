@@ -4,7 +4,6 @@
 
 #include "Window/window.h"
 #include "mygui.h"
-#include "RenderCore/"
 
 
 int main(int argr, char **argv) {
