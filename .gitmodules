@@ -1,0 +1,11 @@
+[submodule "ThirdParites/AliceRender"]
+	path = ThirdParites/AliceRender
+	url = https://github.com/HongZH2/AliceRender.git
+	branch = opengl3.0
+[submodule "ThirdParites/imgui"]
+	path = ThirdParites/imgui
+	url = https://github.com/ocornut/imgui.git
+	branch = docking
+[submodule "ThirdParites/assimp"]
+	path = ThirdParites/assimp
+	url = https://github.com/assimp/assimp.git
